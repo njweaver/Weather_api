@@ -1,0 +1,5 @@
+1.Tempurature and latitude seem to have a correlation. The highest tempuratures seem to congregate around 18 to 20 degrees of latitude, not exactly at the equator.
+
+2. Humidity, Cloudiness, and Wind Speed are not correlated with Latitude.
+
+3. Cloudiness tends to be measured on a scale that favors even numbers, not a strict scale.
